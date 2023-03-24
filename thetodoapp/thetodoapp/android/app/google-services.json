@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "924971860242",
+    "project_id": "bank-himself",
+    "storage_bucket": "bank-himself.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924971860242:android:3958a897028d5b1e85b3cb",
+        "android_client_info": {
+          "package_name": "com.example.thetodoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924971860242-c79so2jjfd0po7tegh7gb66ip47ki0bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEopUNGlMc2xEytct3qP7VekGv9gOLZvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924971860242-c79so2jjfd0po7tegh7gb66ip47ki0bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
